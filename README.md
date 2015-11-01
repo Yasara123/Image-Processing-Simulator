@@ -3,7 +3,7 @@ This project has 3 phases and each phase added the new functionality to the syst
 are as below:
 
 1.1 PHASE I
-1. GUI framework
+<br>1. GUI framework<\br>
 2. Image loading
 3. Save and Save As operations
 4. Image cloning (clone image to another window)
