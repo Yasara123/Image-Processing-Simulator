@@ -22,3 +22,4 @@ method)
 <br>Save code book in as image header)
 <br>3. LOG filter of an image (5x5 and 7x7 mask)
 <br>4. Filter an image based on a user specified 3x3 mask
+<br><br> <b> More on: </b> https://github.com/Yasara123/Image-Processing-Simulator/blob/master/IM-Final%20Report.pdf
